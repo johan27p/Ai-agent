@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Agents",
+  "description": "Visual virtual office with animated pixel-art characters tracking AI coding agents, transcripts, terminal activities, custom office layouts, and audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
